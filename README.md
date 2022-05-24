@@ -1,5 +1,7 @@
 # BanklineApp
 
+Url do paso a paso https://www.youtube.com/watch?v=aQqNXbIpixs&list=PL03eUNV8XpjicLD2yKqAb-mmHzHd_GLZ-&index=9
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
